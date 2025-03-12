@@ -1,2 +1,5 @@
-# sales-data-analysis-
-A porject for analyzing and sorting sales data 
+#Sales Data Analysis 
+This project aims to analyze and sort sales data to provide actionable insights. 
+
+##Sorting Functionality
+This functionalyti will allow users to sort sales data by categories such as date, region and revenue.
